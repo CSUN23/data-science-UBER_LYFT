@@ -1,0 +1,12 @@
+---
+title: "README"
+author: "Chloe Sun"
+date: '2022-07-12'
+output: html_document
+---
+
+This is a project by Chloe Sun analyzing data on cabs from UBER and LYFT. It uses data from [kaggle] (https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices)
+Include in your README:
+- A description (1-2 sentences) about your data set
+- Your name
+
